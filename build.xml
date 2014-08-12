@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project name="LocationTest" default="help">
+<project name="SwiperNoSwiping" default="help">
 
 	<property file="local.properties"/>
 
