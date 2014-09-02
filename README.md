@@ -19,6 +19,12 @@ Then, you can build the app simply by running `ant clean debug`. Afterwards, you
 
 To build *and* install the app to a connected device in one step, run `ant clean debug install`.
 
+## Building in release mode
+
+To build in release mode using the shared debug signing key, run the following command:
+
+    ant clean release install -propertyfile debug.properties
+
 ## License
 
 This app is public domain. Do anything you want with it.
